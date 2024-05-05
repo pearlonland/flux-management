@@ -4,7 +4,7 @@
  --repository=flux-management
  --path=flux-cluster/minikube
  --personal=true
- --private=false` \
+ --private=false` 
  
  Please enter your GitHub personal access token (PAT): \
 ► connecting to github.com \
@@ -39,4 +39,4 @@
 ✔ kustomize-controller: deployment ready \
 ✔ notification-controller: deployment ready \
 ✔ source-controller: deployment ready \
-✔ all components are healthy \
+✔ all components are healthy 
